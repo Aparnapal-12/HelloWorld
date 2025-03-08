@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class main{
 public staic void main(String args[]){
 System.out.prinntln("Hello World");
 }
